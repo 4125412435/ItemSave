@@ -1,0 +1,7 @@
+name: ItemSave
+main: ItemSave.Main
+version: 2.0SNAPSHOT
+author: si_12
+
+commands:
+  itemsave:
